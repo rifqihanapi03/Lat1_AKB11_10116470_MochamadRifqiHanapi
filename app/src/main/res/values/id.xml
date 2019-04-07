@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtKodeKeluarga" type="id" />
+    <item name="tvDescKetentuan" type="id" />
+    <item name="tvBelumPunyKode" type="id" />
+    <item name="tvDesc" type="id" />
+    <item name="tvKodeKeluarga" type="id" />
+</resources>

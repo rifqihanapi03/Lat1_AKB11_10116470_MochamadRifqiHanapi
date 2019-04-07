@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lat1_AKB11_10116470_MochamadRifqiHanapi</string>
+    <string name="monitory_membantu_anda_n_mengontrol_hp_anak">Monitory Membantu Anda   Mengontrol HP Anak</string>
+    <string name="mulai">Mulai</string>
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="descKebijakan">
+        Dengan menekan tombol masuk berarti Anda menyetujui  Ketentuan Pengguna dan  Kebijakan Data Kami
+    </string>
+    <string name="masuk">Masuk</string>
+    <string name="ketikkan_kode_keluarga_yang_ayah_bunda_miliki_disini">Ketikkan kode keluarga yang Ayah Bunda miliki disini</string>
+    <string name="kode">A1B2C3</string>
+    <string name="belum_punya_kode_keluarga">Belum punya kode keluarga?</string>
+    <string name="beli_kode_keluarga_disini">Beli Kode Keluarga Disini</string>
+    <string name="nama_panggilan_kamu">Nama Panggilan Kamu</string>
+    <string name="umur_kamu">Umur Kamu</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="contoh_12">Contoh : 12</string>
+    <string name="contoh_budi">Contoh : Budi</string>
+    <string name="oke">Oke</string>
+</resources>
